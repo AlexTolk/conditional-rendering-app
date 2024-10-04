@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css'; // Подключаем CSS файл
+import './App.css';
 
 function App() {
   const [isClicked, setIsClicked] = useState(false);
